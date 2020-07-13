@@ -7,8 +7,8 @@ Menu Mobile com HTML &amp; CSS apenas (@media (max-width: 768px))
   
   <h3 align="center"> menu de exemplo for developers.</h3>
   
-    <h1 align="center">
-    <img src="/img/screen Mobile.PNG" width="500px">
+  <h1 align="center">
+  <img src="/img/screen Mobile.PNG" width="500px">
   </h1>
    
   <h1 align="center">
